@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   Groceries App
 </h1>
@@ -60,3 +61,6 @@ Clone or Download and Open it into Android Studio or other IDE
 <p>
 
 
+=======
+# Online-Grocery-Store-Jetpack
+>>>>>>> 5372df8cc4ebfc87574f82d5b0e8dab34b274fea
